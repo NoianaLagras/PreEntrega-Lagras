@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/PreEntrega-Lagras/static/css/main.976527b9.css",
+    "main.js": "/PreEntrega-Lagras/static/js/main.b330bc3a.js",
+    "static/js/787.319676fc.chunk.js": "/PreEntrega-Lagras/static/js/787.319676fc.chunk.js",
+    "static/media/AnillosSlider1.webp": "/PreEntrega-Lagras/static/media/AnillosSlider1.59bd4054bc88cfcba125.webp",
+    "static/media/AnillosSlider.webp": "/PreEntrega-Lagras/static/media/AnillosSlider.f075690b702147619e73.webp",
+    "static/media/PulseraSlider1.webp": "/PreEntrega-Lagras/static/media/PulseraSlider1.d6fbf69be10da56f0758.webp",
+    "static/media/anillo6.webp": "/PreEntrega-Lagras/static/media/anillo6.99c3406e7b9ea013430e.webp",
+    "static/media/anillo4.webp": "/PreEntrega-Lagras/static/media/anillo4.5d359f7bc15044bbec50.webp",
+    "static/media/collar.webp": "/PreEntrega-Lagras/static/media/collar.547ada95e19375f52eaf.webp",
+    "static/media/pulsera6.webp": "/PreEntrega-Lagras/static/media/pulsera6.4dde20f1adbe1a6518ed.webp",
+    "static/media/anillo18.webp": "/PreEntrega-Lagras/static/media/anillo18.539af8d797b943a90253.webp",
+    "static/media/pulsera5.webp": "/PreEntrega-Lagras/static/media/pulsera5.232895a0ee5a6eae5d56.webp",
+    "static/media/collar2.webp": "/PreEntrega-Lagras/static/media/collar2.0af2bd9d86888de178cf.webp",
+    "static/media/anillo1.webp": "/PreEntrega-Lagras/static/media/anillo1.f8d81cf8ab51f77818da.webp",
+    "static/media/anillo9.webp": "/PreEntrega-Lagras/static/media/anillo9.455f889cecc2f910bf37.webp",
+    "static/media/collar1.webp": "/PreEntrega-Lagras/static/media/collar1.25926465b0fd5e6ad5ab.webp",
+    "static/media/collar3.webp": "/PreEntrega-Lagras/static/media/collar3.96539deef1dc145c3dc2.webp",
+    "static/media/anillo2.webp": "/PreEntrega-Lagras/static/media/anillo2.2c4f44e2889dd36637a7.webp",
+    "static/media/anillo7.webp": "/PreEntrega-Lagras/static/media/anillo7.525528059e219491ad65.webp",
+    "static/media/collar5.webp": "/PreEntrega-Lagras/static/media/collar5.77c700c550adaaefd8bd.webp",
+    "static/media/pulsera9.webp": "/PreEntrega-Lagras/static/media/pulsera9.f5fc98cd826d590327eb.webp",
+    "static/media/Logo.webp": "/PreEntrega-Lagras/static/media/Logo.8bc2ad26945834716c7e.webp",
+    "static/media/anillo10.webp": "/PreEntrega-Lagras/static/media/anillo10.380b1c01ecc3db2cc913.webp",
+    "index.html": "/PreEntrega-Lagras/index.html",
+    "main.976527b9.css.map": "/PreEntrega-Lagras/static/css/main.976527b9.css.map",
+    "main.b330bc3a.js.map": "/PreEntrega-Lagras/static/js/main.b330bc3a.js.map",
+    "787.319676fc.chunk.js.map": "/PreEntrega-Lagras/static/js/787.319676fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.976527b9.css",
+    "static/js/main.b330bc3a.js"
+  ]
+}
