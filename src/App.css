@@ -1,21 +1,7 @@
 *{
   max-width: 100%;
 }
-.productos{
 
-padding-top: 50px;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: auto;
-  gap: 30px;
-  row-gap: 50px;
-}
-.card{
- font-family: monospace;
- font-weight: 600;
- color: black;
- text-align: center;
-}
 
 .addCart{
   background-color: #341948;
@@ -61,6 +47,7 @@ scale: 1.1;
 }
 h2{
 color: #dddbdf;
+padding: 0 20px;
 }
 footer{
   background-color: #170B3B;
@@ -97,4 +84,30 @@ cursor: pointer;
   to {
     left: 100%;
   }
+}
+
+.productos{
+
+  padding-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 30px;
+    row-gap: 50px;
+  }
+  .card{
+   font-family: monospace;
+   font-weight: 600;
+   display: flex;
+   color: black;
+   align-items: center;
+  }
+  .cantidadCard{
+    position: relative;
+    bottom: 50px;
+    left: 90px;
+    font-size: 1.5rem;
+    background-color: rgb(62, 202, 179);
+    padding: 20px;
+    border-radius: 35px;
 }
