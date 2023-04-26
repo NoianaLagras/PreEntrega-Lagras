@@ -1,5 +1,5 @@
 import React from 'react'
-import { BsFillCartFill } from "react-icons/bs";
+import CartWidget from './CartWidget'
 import NavbarItem from './NavbarItem'
 import Logo from '../../assets/images/Logo.webp'
 import '../../App.css'
@@ -34,7 +34,7 @@ const Navbars = () => {
       </ul>
     </div>
   </div>
-  <h2><BsFillCartFill/>0</h2>
+  <h2><CartWidget/>0</h2>
 </nav>
   )
 }
