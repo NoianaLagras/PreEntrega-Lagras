@@ -1,3 +1,6 @@
+*{
+  max-width: 100%;
+}
 .productos{
 
 padding-top: 50px;
@@ -75,6 +78,23 @@ footer{
   text-transform: uppercase;
 cursor: pointer;
 }
+.containerSaludo{
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+}
 .saludo{
   text-align: center;
+  font-weight: 500;
+  font-size: larger;
+  position:relative;
+  animation: mover 20s linear infinite;
+}
+@keyframes mover {
+  from {
+    left: -100%;
+  }
+  to {
+    left: 100%;
+  }
 }
